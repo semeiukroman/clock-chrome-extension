@@ -1,0 +1,12 @@
+.clock_extension {
+    position: fixed;
+    top: 20px;
+    left: 250px;
+    z-index: 10000;
+    font-size: 32px;
+    color: chocolate;
+}
+
+.hide {
+    display: none;
+}
