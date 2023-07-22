@@ -5,8 +5,13 @@
     z-index: 10000;
     font-size: 32px;
     color: chocolate;
+    cursor: default;
 }
 
 .hide {
     display: none;
+}
+
+.draggable {
+    cursor: move;
 }
